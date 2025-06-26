@@ -1,6 +1,6 @@
-## 📊 Lilian Onya – Data Analyst
+Hi there, i'm Lilian Onya 
 
- I'm **Lilian Onya**, a data-driven problem solver transitioning into the world of **Data Analytics**. With over 8 years of experience in Customer Service and a strong passion for extracting insights from data, I'm building the skills and experience to make an impact through data storytelling and decision-making.
+ A data-driven problem solver transitioning into the world of **Data Analytics**. With over 8 years of experience in Customer Service and a strong passion for extracting insights from data, I'm building the skills and experience to make an impact through data storytelling and decision-making.
 
 ---
 
